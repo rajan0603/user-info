@@ -1,0 +1,15 @@
+.wrapper{
+  margin-top:50px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+.table{
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.prev{
+  text-align: center;
+}
